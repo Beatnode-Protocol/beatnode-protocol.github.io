@@ -17,7 +17,5 @@ We are currently finalizing the **Orange Paper** and establishing our core engin
 ## 🤝 Connect
 * **Nostr**: `sebastien@beatnode.io` ⚡
 * **Email**: `info@beatnode.io`
-* **Documentation**: [View the Orange Paper Draft](./orange-paper) (Private access available upon request).
-
----
+* **Documentation**: [View the Orange Paper Draft](https://github.com/Beatnode-Protocol/orange-paper-private) (Private access available upon request).
 *© 2026 Beatnode Protocol. Built on Bitcoin.*# beatnode-protocol.github.io
